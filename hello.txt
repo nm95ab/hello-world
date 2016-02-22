@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 602E-8D49
+
+ Directory of c:\_git\hello-world
+
+02/22/2016  10:49 AM    <DIR>          .
+02/22/2016  10:49 AM    <DIR>          ..
+02/22/2016  10:53 AM                 0 hello.txt
+02/22/2016  10:29 AM                56 README.md
+               2 File(s)             56 bytes
+               2 Dir(s)  43,942,387,712 bytes free
